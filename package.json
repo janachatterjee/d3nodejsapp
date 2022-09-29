@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
-    "d3": "^4.10.2",
+    "d3": "^7.6.1",
     "three": "^0.87.1"
   },
   "devDependencies": {
